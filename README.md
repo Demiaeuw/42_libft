@@ -80,4 +80,4 @@ Aucune d√©pendance externe n'est requise. Libft utilise uniquement les biblioth√
 
 ## Licence
 
-Ce projet est sous la licence MIT. Voir le fichier [LICENSE](license) pour plus d'informations.
+Ce projet est sous la licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus d'informations.
