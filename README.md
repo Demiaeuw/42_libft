@@ -17,25 +17,25 @@ Fonctionnalités
 
 Pour utiliser Libft, suivez les étapes suivantes :
 
-1.Clonez le dépôt :
+1. Clonez le dépôt :
 
 ```bash
 
 git clone https://github.com/Demiaeuw/42_libft.git
 ```
-2.Accédez au répertoire du projet :
+2. Accédez au répertoire du projet :
 
 ```bash
 
 cd 42_libft
 ```
-3.Compilez la bibliothèque avec make :
+3. Compilez la bibliothèque avec make :
 
 ```bash
 
 make
 ```
-4.Une fois compilée, la bibliothèque libft.a sera générée. Vous pouvez l'inclure dans vos projets en utilisant l'option -L et -l lors de la compilation de vos projets.
+4. Une fois compilée, la bibliothèque libft.a sera générée. Vous pouvez l'inclure dans vos projets en utilisant l'option -L et -l lors de la compilation de vos projets.
 
 ## Utilisation
 
@@ -78,6 +78,6 @@ Aucune dépendance externe n'est requise. Libft utilise uniquement les biblioth�
 
 [Adrien Cabarbaye](https://github.com/Demiaeuw)
 
-### Licence
+## Licence
 
 Ce projet est sous la licence MIT. Voir le fichier [LICENSE](license) pour plus d'informations.
